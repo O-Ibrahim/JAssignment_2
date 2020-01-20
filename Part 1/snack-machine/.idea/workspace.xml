@@ -1,0 +1,215 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83d3abd8-dcdc-43e9-897a-b97dacbc6db9" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeInsightWorkspaceSettings">
+    <option name="optimizeImportsOnTheFly" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1W8rxQEUvknvdIOZbO7K3psq1xP" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.import" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.progressoft.induction" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.SnackMachineTest">
+    <configuration name="MoneyTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snack-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.progressoft.induction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.progressoft.induction" />
+      <option name="MAIN_CLASS_NAME" value="com.progressoft.induction.MoneyTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnackMachineTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snack-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.progressoft.induction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.progressoft.induction" />
+      <option name="MAIN_CLASS_NAME" value="com.progressoft.induction.SnackMachineTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnackMachineTest.buying_a_snack_after_inserting_money_less_than_snack_price_should_fail" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snack-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.progressoft.induction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.progressoft.induction" />
+      <option name="MAIN_CLASS_NAME" value="com.progressoft.induction.SnackMachineTest" />
+      <option name="METHOD_NAME" value="buying_a_snack_after_inserting_money_less_than_snack_price_should_fail" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnackMachineTest.buying_a_snack_after_inserting_money_more_than_snack_price_should_return_change" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snack-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.progressoft.induction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.progressoft.induction" />
+      <option name="MAIN_CLASS_NAME" value="com.progressoft.induction.SnackMachineTest" />
+      <option name="METHOD_NAME" value="buying_a_snack_after_inserting_money_more_than_snack_price_should_return_change" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SnackMachineTest.snack_machine_does_not_accept_non_predefined_money_units" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="snack-machine" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.progressoft.induction.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.progressoft.induction" />
+      <option name="MAIN_CLASS_NAME" value="com.progressoft.induction.SnackMachineTest" />
+      <option name="METHOD_NAME" value="snack_machine_does_not_accept_non_predefined_money_units(double)" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.SnackMachineTest" />
+        <item itemvalue="JUnit.MoneyTest" />
+        <item itemvalue="JUnit.SnackMachineTest.snack_machine_does_not_accept_non_predefined_money_units" />
+        <item itemvalue="JUnit.SnackMachineTest.buying_a_snack_after_inserting_money_more_than_snack_price_should_return_change" />
+        <item itemvalue="JUnit.SnackMachineTest.buying_a_snack_after_inserting_money_less_than_snack_price_should_fail" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83d3abd8-dcdc-43e9-897a-b97dacbc6db9" name="Default Changelist" comment="" />
+      <created>1578542308869</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578542308869</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1578663162281">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578663162281" />
+    <state x="765" y="197" key="#com.intellij.ide.util.MemberChooser" timestamp="1578658849371">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="765" y="197" key="#com.intellij.ide.util.MemberChooser/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578658849371" />
+    <state width="456" height="646" key="DebuggerActiveHint" timestamp="1578669819097">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="456" height="646" key="DebuggerActiveHint/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578669819097" />
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog" timestamp="1578638548062">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="92" y="92" width="1736" height="856" key="DiffContextDialog/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578638548062" />
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom" timestamp="1578771532541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.bottom/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578771532541" />
+    <state width="1877" height="261" key="GridCell.Tab.0.center" timestamp="1578771532541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.center/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578771532541" />
+    <state width="1877" height="261" key="GridCell.Tab.0.left" timestamp="1578771532541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.left/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578771532541" />
+    <state width="1877" height="261" key="GridCell.Tab.0.right" timestamp="1578771532541">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="261" key="GridCell.Tab.0.right/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578771532541" />
+    <state width="1877" height="326" key="GridCell.Tab.1.bottom" timestamp="1578686720789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="326" key="GridCell.Tab.1.bottom/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578686720789" />
+    <state width="1877" height="326" key="GridCell.Tab.1.center" timestamp="1578686720789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="326" key="GridCell.Tab.1.center/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578686720789" />
+    <state width="1877" height="326" key="GridCell.Tab.1.left" timestamp="1578686720789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="326" key="GridCell.Tab.1.left/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578686720789" />
+    <state width="1877" height="326" key="GridCell.Tab.1.right" timestamp="1578686720789">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="326" key="GridCell.Tab.1.right/0.0.1920.1040/-1440.0.1440.860@0.0.1920.1040" timestamp="1578686720789" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/snack_machine$SnackMachineTest_when_insert_money_then_money_in_transaction_should_be_equal_to_the_money_inserted.ic" NAME="SnackMachineTest.when_insert_money_then_money_in_transaction_should_be_equal_to_the_money_inserted Coverage Results" MODIFIED="1578635555199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>com.progressoft.induction.*</FILTER>
+    </SUITE>
+  </component>
+</project>

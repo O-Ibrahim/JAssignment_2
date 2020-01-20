@@ -1,0 +1,13 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.moneyBtn {
+  width: 200px;
+}
+body {
+  margin-top: 50px;
+}
+.item-btn {
+  width: 200px;
+}
